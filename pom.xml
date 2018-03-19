@@ -9,4 +9,14 @@
     <version>1.0-SNAPSHOT</version>
 
 
+    <modules>
+        <module>anybbo-config-client</module>
+        <module>anybbo-config-server</module>
+        <module>anybbo-eureka-client</module>
+        <module>anybbo-eureka-server</module>
+        <module>anybbo-feign</module>
+        <module>anybbo-ribbon</module>
+        <module>anybbo-zuul</module>
+    </modules>
+
 </project>
