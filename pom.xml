@@ -17,6 +17,7 @@
         <module>anybbo-feign</module>
         <module>anybbo-ribbon</module>
         <module>anybbo-zuul</module>
+        <module>anybbo-server-zipkin</module>
     </modules>
 
 </project>
