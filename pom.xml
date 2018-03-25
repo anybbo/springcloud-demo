@@ -18,6 +18,7 @@
         <module>anybbo-ribbon</module>
         <module>anybbo-zuul</module>
         <module>anybbo-server-zipkin</module>
+        <module>anybbo-consul-miya</module>
     </modules>
 
 </project>
