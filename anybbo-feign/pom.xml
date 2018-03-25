@@ -69,8 +69,8 @@
 
 	<repositories>
 		<repository>
-			<id>maven-ali</id>
-			<url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+			<id>maven-anybbo</id>
+			<url>http://nexus.anybbo.com/repository/maven-public/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>

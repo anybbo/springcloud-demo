@@ -65,11 +65,15 @@
 
 	<repositories>
 		<repository>
-			<id>spring-milestones</id>
-			<name>Spring Milestones</name>
-			<url>https://repo.spring.io/milestone</url>
+			<id>maven-anybbo</id>
+			<url>http://nexus.anybbo.com/repository/maven-public/</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
 			<snapshots>
-				<enabled>false</enabled>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>fail</checksumPolicy>
 			</snapshots>
 		</repository>
 	</repositories>
