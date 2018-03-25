@@ -6,7 +6,8 @@
 - anybbo-eureka-client  服务提供者
 
 - anybbo-ribbon         服务消费者
-    > rest + ribbon 加入断路器 Hystrix
+    > rest + ribbon 
+    > 加入断路器 Hystrix
     
 - anybbo-feign          服务消费者
     > feign 加入断路器 Hystrix
